@@ -1,5 +1,10 @@
-flask
 websocket-client
 requests
 python-dotenv
+beautifulsoup4
+pillow
+yt-dlp
+cloudinary
+google-images-search
+flask
 colorama
