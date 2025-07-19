@@ -1,0 +1,5 @@
+flask
+websocket-client
+requests
+python-dotenv
+colorama
